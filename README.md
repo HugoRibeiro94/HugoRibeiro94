@@ -1,7 +1,7 @@
 Hi 👋 My name is Hugo
 =====================
 
-I am a father, farmer and Developer Full Stack!!
+I am a Developer Full Stack!!
 ------------------------------------------------
 
 * 🌍  I'm based in Tres Rios-RJ
